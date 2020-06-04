@@ -1,0 +1,6 @@
+---
+
+nfs_client_pkgs:
+  - "nfs-common"
+
+nfs_client_imports: []
